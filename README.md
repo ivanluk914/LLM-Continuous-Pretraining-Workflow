@@ -1,4 +1,4 @@
-# Large Language Model Continuous Pretraining Workflow
+# LLM Continuous Pretraining Workflow
 
 This repository outlines the workflow for preparing datasets and training/upscaling large language models (LLMs) using the Hugging Face ecosystem. It includes steps to preprocess custom datasets, adapt existing models, and perform continuous pretraining.
 
