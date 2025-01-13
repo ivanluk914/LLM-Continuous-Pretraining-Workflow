@@ -55,11 +55,10 @@ Ensure the following are installed:
 ### Steps to Use
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/ivanluk914/Pretraining-with-Hugging-Face-Transformers.git
    ```
-2. Download datasets (e.g., Red Pajama) or use provided Python scraping scripts to gather data.
-3. Preprocess datasets by running the Jupyter Notebook file `pretraining.ipynb`.
+2. Preprocess datasets by running the Jupyter Notebook file `pretraining.ipynb`.
+3. Download datasets (e.g., Red Pajama) or use provided Python scraping scripts to gather data.
 4. Train the model using customized Hugging Face Trainer settings.
 
 ---
